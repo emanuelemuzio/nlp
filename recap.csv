@@ -1,3 +1,0 @@
-lr;epochs;batch_size;dropout;ood;f1-score
-1e-05;10;32;0.3;False;0.476396609889767
-0.0001;10;32; 0.4;True;0.6379821969089645
