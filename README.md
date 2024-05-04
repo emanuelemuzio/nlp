@@ -60,4 +60,25 @@ Identificazione del target: i vari messaggi sono infatti indirizzati verso la di
 ### Grafici
 
 A seguire, una lista completa dei grafici riassuntivi dei risultati ottenuti e i link ai pesi:
--
+- Task A:
+  - [Addestramento no prep](https://drive.google.com/file/d/1iXBAbY43_Tw1WSnjK1D2mLcDbZCirxGb/view?usp=sharing)
+  - [Addestramento prep](https://drive.google.com/file/d/1sPFlXhJvG9D3YKXhtPzdOCNJt7kT4ZMx/view?usp=sharing)
+  - [Heatmap no prep](https://drive.google.com/file/d/19t0cPO_tcS9yg5R9i2XkHS_xo6__xQ8W/view?usp=sharing)
+  - [Heatmap prep](https://drive.google.com/file/d/1nCmq7sZX9WUvkbqQxjJDAUm7608MJTok/view?usp=sharing)
+  - [No prep recap csv](https://drive.google.com/file/d/1rjvX-wNjx3pZVlNe7cT4GTt_amX1M1UQ/view?usp=sharing)
+  - [Prep recap csv](https://drive.google.com/file/d/18CiB5ZGjbt6g-E8cCbOg00xhep-jgamP/view?usp=sharing)
+  - [Pesi prep OOD](https://drive.google.com/file/d/11_Mf4UOQ2oFRa1FHR8pDnExCAtw8peaZ/view?usp=sharing)
+  - [Pesi prep in-domain](https://drive.google.com/file/d/1K2q7mmLVQUbuFwTNFe-OY9Rc9sDd1RQX/view?usp=sharing)
+  - [Pesi no prep in-domain](https://drive.google.com/file/d/1tvUT4P9BCw19X1GjPO1GkHAG3EFy48g-/view?usp=sharing)
+  - [Pesi no prep OOD](https://drive.google.com/file/d/1-sC-eECWFslCtICXQd1RGiZ00rtOxq-k/view?usp=sharing)
+- Task B:
+  - [Addestramento no prep](https://drive.google.com/file/d/10Tz5dwxsv1yLnUrWguV5a6dNzT9VoGhm/view?usp=sharing)
+  - [Addestramento prep](https://drive.google.com/file/d/16iZlN-jenst9X6A00cxBJVFgYo9Zj9g-/view?usp=sharing)
+  - [Heatmap no prep](https://drive.google.com/file/d/1-5EdY8vaCbN0qNaSi0MNpsH3i7wc9IA1/view?usp=sharing)
+  - [Heatmap prep](https://drive.google.com/file/d/1-MW04xy7OkvnKjamJArcRqCvgNh1xDbT/view?usp=sharing)
+  - [No prep recap csv](https://drive.google.com/file/d/1-2oxipWAx6vNos9558RKCiha3tvWFUDZ/view?usp=sharing)
+  - [Prep recap csv](https://drive.google.com/file/d/1-IpSfiy-tKtsSjIBhT1iq05WaikJ7JXr/view?usp=sharing)
+  - [Pesi prep OOD](https://drive.google.com/file/d/1-EcqhkihtM4fqXhw82kRRbq4w9QKBEVB/view?usp=sharing)
+  - [Pesi prep in-domain](https://drive.google.com/file/d/1-640pOYr3y1DUhpe4NdA_QCXon176u8I/view?usp=sharing)
+  - [Pesi no prep in-domain](https://drive.google.com/file/d/1-0R21vWj7mgPQt-G6CZ5UPewZZsyIdxb/view?usp=sharing)
+  - [Pesi no prep OOD](https://drive.google.com/file/d/1-0hPGehAXt2vFRSlcR4QsguzB4S_iuiK/view?usp=sharing)
