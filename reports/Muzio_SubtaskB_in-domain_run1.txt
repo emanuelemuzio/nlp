@@ -1,0 +1,13 @@
+
+    F1-macro: 0.6226430311409573
+                  precision    recall  f1-score   support
+
+   Direction     0.5935    0.3538    0.4434       260
+       Topic     0.7402    0.8748    0.8019       671
+
+   micro avg     0.7162    0.7293    0.7227       931
+   macro avg     0.6669    0.6143    0.6226       931
+weighted avg     0.6993    0.7293    0.7018       931
+ samples avg     0.6425    0.6390    0.6320       931
+
+    
